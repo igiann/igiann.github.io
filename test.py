@@ -15,7 +15,7 @@ def jsonfind(json_object, name):
             return dict
 
 # Create the list file
-listchannels=['France 24 English','BBC News','Rai 1']
+listchannels=['France 24 English','BBC News','Rai 1','Rete 4']
 f = open("news.m3u", "w")
 data = '#EXTM3U\n'
 for channel in listchannels:

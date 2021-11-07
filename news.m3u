@@ -1,14 +1,12 @@
 #EXTM3U
+#EXTINF:-1 group-title="International" tvg-name="CNNInternationalEurope.us" tvg-logo="https://i.imgur.com/2BXCg0x.jpg",CNN International Europe
+https://cnn-cnninternational-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 group-title="International" tvg-name="France24English.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France24.png",France 24 English
 http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master.m3u8
 #EXTINF:-1 group-title="International" tvg-name="BBCNews.uk" tvg-logo="https://i.imgur.com/eNPIQ9f.png",BBC News
 http://www.filmon.com/vr-streams/27.high/playlist.m3u8
 #EXTINF:-1 group-title="International" tvg-name="Rai1.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Rai_1_-_Logo_2016.svg/1280px-Rai_1_-_Logo_2016.svg.png",Rai 1
 http://ott-cdn.ucom.am/s29/04.m3u8
-#EXTINF:-1 group-title="International" tvg-name="Rai2.it" tvg-logo="https://www.ipko.com/epg/logo/rai2.png",Rai 2
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308718
-#EXTINF:-1 group-title="International" tvg-name="Rai3.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Rai_3_-_Logo_2016.svg/1280px-Rai_3_-_Logo_2016.svg.png",Rai 3
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308709
 #EXTINF:-1 group-title="International" tvg-name="RaiNews24.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Rai_News_24.svg/1920px-Rai_News_24.svg.png",Rai News 24
 https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/playlist.m3u8
 #EXTINF:-1 group-title="International" tvg-name="AlJazeeraEnglish.qa" tvg-logo="https://i.imgur.com/BB93NQP.png",Al Jazeera English

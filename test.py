@@ -16,7 +16,7 @@ def jsonfind(json_object, name):
 
 # Create the list file
 listchannels=['Sky News','CNN International Europe','France 24 English','BBC News','Rai 1',
-'Rai News 24','Al Jazeera English','TV5 Monde Europe']
+'Rai News 24','Rai Movies','Al Jazeera English','TV5 Monde Europe']
 f = open("news.m3u", "w")
 data = '#EXTM3U\n'
 for channel in listchannels:

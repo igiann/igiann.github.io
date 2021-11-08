@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+#!/usr/bin/env python
 
 import json
 import requests
@@ -24,4 +24,4 @@ for channel in listchannels:
 
     data += '#EXTINF:-1 group-title="International" tvg-name="%s" tvg-logo="%s",%s\n%s\n'% (info["tvg"]["id"],info["logo"],info["name"],info["url"])
 f.write(data)
-f.close() 
+f.close()

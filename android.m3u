@@ -14,7 +14,7 @@ http://alphatvlive.siliconweb.com/1/Y2Rsd1lUcUVoajcv/UVdCN25h/hls/live/playlist.
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="digea.star.gr" tvg-logo="https://i.imgur.com/zGpwulO.png",STAR 
 http://livestar.siliconweb.com/media/star1/star1.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="digea.skai.gr" tvg-logo="https://i.imgur.com/BXmta4G.png",SKAI HD 
-https://skai-live-gr-cy-back.siliconweb.com/media/cambria4/index_bitrate600K.m3u8
+https://skai-live-back.siliconweb.com/media/cambria4/index_bitrate600K.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="OPEN BEYOND" tvg-logo="https://i.imgur.com/72GOh2Z.png",OPEN TV HD
 https://liveopencloud.siliconweb.com/1/ZlRza2R6L2tFRnFJ/eWVLSlQx/hls/live/playlist.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/ObjxuGj.jpg",NETMAX TV
@@ -32,15 +32,21 @@ https://s1.cystream.net/live/34100/playlist.m3u8
 #EXTINF:-1 group-title="ΠΑΙΔΙΚΑ" tvg-name="cyta.smiletv.cy" tvg-logo="https://i.imgur.com/gRbdn9n.png",SMILE TV CY
 https://s1.cystream.net/live/smile/playlist.m3u8
 #EXTINF:-1 group-title="ΠΑΙΔΙΚΑ" tvg-logo="https://i.imgur.com/xHdfbl6.jpg",BOOBA
-https://www.youtube.com/watch?v=yc6EpskO9rY
+https://www.youtube.com/watch?v=zaGohagkcqY
+#EXTINF:-1 group-title="ΠΑΙΔΙΚΑ" tvg-logo="https://i.imgur.com/SJE7Gop.png",LOONEY TUNES TV
+https://www.youtube.com/watch?v=xKDaDXRSzoM
 #EXTINF:-1 group-title="ΠΑΙΔΙΚΑ" tvg-logo="https://i.imgur.com/SJE7Gop.png",CARTOON TV
 https://www.youtube.com/watch?v=Wdqu51Bc0MM
+#EXTINF:-1 group-title="ΠΑΙΔΙΚΑ" tvg-logo="https://i.imgur.com/SJE7Gop.png",CARTOON TV2
+https://www.youtube.com/watch?v=IKGj8sEu8hE
 #EXTINF:-1 group-title="ΠΑΙΔΙΚΑ" tvg-logo="https://i.imgur.com/PkCoTNY.png",KIDS TV
 http://wpso.com:1936/hls/kidshd.m3u8
 #EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-name="ert.ertworld.gr" tvg-logo="https://i.imgur.com/Jjds4h5.png",ERT WORLD 
 http://ert-live-bcbs15228.siliconweb.com/media/ert_world/ert_world.m3u8
 #EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-name="cyta.euronews.cy" tvg-logo="https://i.imgur.com/g7s60c1.png",EURONEWS 
 https://www.youtube.com/watch?v=-UJlcdni8cM
+#EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-name="cyta.euronews.cy" tvg-logo="https://i.imgur.com/g7s60c1.png",EURONEWS BUP
+https://euronews-el-p28-cdn.hexaglobe.net/3406128a5f11d559ba49ed626c4e7ca8/62023220/euronews/euronews-euronews-website-web-responsive-2/ewnsabrel_gre.smil/ewnsabrel_gre_576p.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ert.vouli.gr" tvg-logo="https://i.imgur.com/ToYaStx.png",VOULI 
 http://streamer-cache.grnet.gr/parliament/hls/webtv.m3u8
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-name="RIK Sat" tvg-logo="https://i.imgur.com/V4pAPIA.png",RIK SAT CY
@@ -108,7 +114,7 @@ https://www.hellasnet.tv/rest.live.hn/trt2/playlist.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="digea.mesogeiostv.gr" tvg-logo="https://i.imgur.com/GRVuuem.png",MESOGEIOS TV
 http://176.9.123.140:1935/mesogeiostv/stream/master.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="digea.epirustv1.gr" tvg-logo="https://i.imgur.com/MaMJO96.png",EPIRUS TV1
-http://176.9.123.140:1935/radioepirus/radioepirus/playlist.m3u8
+https://til.pp.ua:3928/multi_live/play_src.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="TOP CHANNEL" tvg-logo="https://i.imgur.com/x1yvGGh.png",TOP CHANNEL
 http://s2.netmax-host.eu:5062/topchannel/topchannel/playlist.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="digea.alfa.gr" tvg-logo="https://i.imgur.com/HeqjCJC.png",ALFA 

@@ -1,12 +1,12 @@
 #EXTM3U
 #EXTINF:-1 group-title="International" tvg-name="SkyNews.uk" tvg-logo="https://i.imgur.com/WvNd8yg.png",Sky News
-http://skynews-sn-cdhls.ak-cdn.skydvn.com/cdhlsskynews/1404/latest.m3u8
+http://skydvn-sn-mobile-prod.skydvn.com/skynews/1404/latest.m3u8
 #EXTINF:-1 group-title="International" tvg-name="CNNInternationalEurope.us" tvg-logo="https://i.imgur.com/2BXCg0x.jpg",CNN International Europe
 https://cnn-cnninternational-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 group-title="International" tvg-name="France24English.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France24.png",France 24 English
 http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master.m3u8
-#EXTINF:-1 group-title="International" tvg-name="BBCNews.uk" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/bbc-news-uk.png",BBC News
-http://www.filmon.com/vr-streams/27.high/playlist.m3u8
+#EXTINF:-1 group-title="International" tvg-name="BBCNews.uk" tvg-logo="https://i.imgur.com/eNPIQ9f.png",BBC News
+https://vs-hls-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_news_channel_hd/mobile_wifi_main_sd_abr_v2.m3u8
 #EXTINF:-1 group-title="International" tvg-name="Rai1.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Rai_1_-_Logo_2016.svg/1280px-Rai_1_-_Logo_2016.svg.png",Rai 1
 http://ott-cdn.ucom.am/s29/04.m3u8
 #EXTINF:-1 group-title="International" tvg-name="RaiNews24.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Rai_News_24.svg/1920px-Rai_News_24.svg.png",Rai News 24

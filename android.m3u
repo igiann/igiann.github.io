@@ -47,6 +47,8 @@ https://channel.streams.ovh:1936/greekcinema/greekcinema/playlist.m3u8
 https://rtmp.streams.ovh:1936/cinemaclassics/cinemaclassics/playlist.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/9epayAc.jpg",DTV 6
 https://channel.streams.ovh:1936/dipolo/dipolo/playlist.m3u8
+#EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/FykRSZV.jpg",IONIA TV
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/tvioniathessalonikis&checkedby:Greektv
 #EXTINF:-1 group-title="ΠΑΙΔΙΚΑ" tvg-name="smilecy" tvg-logo="https://i.imgur.com/gRbdn9n.png",SMILE TV CY
 https://s1.cystream.net/live/smile/playlist.m3u8
 #EXTINF:-1 group-title="ΠΑΙΔΙΚΑ" tvg-logo="https://i.imgur.com/PkCoTNY.png",KIDS TV
@@ -271,7 +273,7 @@ https://tv.mediacp.eu:8081/10channel/tracks-v1a1/mono.m3u8
 https://live.stent.net.gr/mistserver/hls/obsteliko/index.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/DcleTdR.png",GREEK VOICE 
 http://65.108.62.57:8080/live/greektv1.m3u8
-#EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/nxoHQqz.png",EKKLHSIA TV HD
+#EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/87R16eq.png",EKKLHSIA TV HD
 https://liveopen.siliconweb.com/openTvLive/openEcclessia/playlist.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/svYeIxR.png",PEMPTOUSIA TV
 https://svs.itworkscdn.net/pemptousialive/pemptousia.smil/playlist.m3u8
@@ -285,8 +287,10 @@ https://live.streams.ovh/netmedia/netmedia/playlist.m3u8
 https://srv.streamserver.gr:3451/stream/play.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/tZnziRp.jpg",NS TV
 http://176.9.123.140:1935/nstv1/stream/playlist.m3u8
-#EXTINF:-1 group-title="WEB TV" tvg-logo="http://www.tv14.net/wp-content/uploads/2010/10/Hellenic-TV.jpg",HELLENIC TV
+#EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/8bjfYod.png",HELLENIC TV
 https://l5.cloudskep.com/hellenictv/htv/playlist.m3u8
+#EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/F8lYQyg.jpg", DTP
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/pyliatv
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/6ujDrEN.jpg",ELLADA TV
 https://castvideo.eu:3384/live/elladalive.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/PcbFVVe.jpg",AKTINA TV
@@ -303,5 +307,5 @@ http://live.streams.ovh:1935/tvfilopoli/tvfilopoli/playlist.m3u8
 http://cbd537474fbad4634b64787657ff6456.msvdn.net/sports1/ert_sports1_main/mainabr/playlist.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-name="ertsports2" tvg-logo="https://i.imgur.com/hxajA2g.png",ERT SPORTS 2
 http://cbd537474fbad4634b64787657ff6456.msvdn.net/sports2/ert_sports2_main/mainabr/playlist.m3u8
-#EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/cE8LuoO.png",HORSE RACES
+#EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/w4lIGYn.png",HORSE RACES
 https://opaphlslive1msl4.akamaized.net/hls/live/233406/odie3/odie.m3u8

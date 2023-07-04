@@ -147,6 +147,8 @@ https://channel.streams.ovh:1936/ioanninatv/ioanninatv/playlist.m3u8
 https://www.hellasnet.tv/rest2.live.hn/w2r.iri/playlist.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="etv" tvg-logo="https://i.imgur.com/WQiBFmo.png",ETV
 https://channel.streams.ovh:1936/epsilontv/epsilontv/playlist.m3u8
+#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="mesogeiostv" tvg-logo="https://i.imgur.com/5KGk2yr.png",MESOGEIOS TV
+https://til.pp.ua:3872/live/mesogeiostvlive.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="edamth" tvg-logo="https://i.imgur.com/DLY2rOM.png",ED TV
 https://eu1.vectromdigital.com:1936/tvdelta/tvdelta/playlist.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="arttv" tvg-logo="https://i.imgur.com/dYI1TUb.png",ART TV
@@ -225,6 +227,8 @@ https://livetv.streams.ovh:1936/mgrwebtv/mgrwebtv/playlist.m3u8
 http://web.onair-radio.eu:1935/explorecy/explorecy/playlist.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/N6q8DgI.png",BCI TRAVEL
 https://eu1.vectromdigital.com:1936/bcitravel/bcitravel/playlist.m3u8
+#EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/ISMDiZA.jpg",BCI DOCUMENTARY
+https://eu1.vectromdigital.com:1936/bcidocumentary/bcidocumentary/playlist.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/YhwbcwE.png",GREEK TV LONDON
 https://vdo3.alphaserver.gr:3466/live/greektvlondonlive.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/y58Jkj8.png",MONTREAL GREEK TV

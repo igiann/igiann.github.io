@@ -8,11 +8,11 @@
 	>
 
 <channel>
-	<title>Jean Monnet Module</title>
+	<title>EU Integration Process and the Promotion of Human Rights in Albania</title>
 	<atom:link href="/index.php/feed/" rel="self" type="application/rss+xml" />
 	<link></link>
 	<description></description>
-	<lastBuildDate>Sun, 08 Oct 2023 20:28:17 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 11 Oct 2023 10:04:01 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -21,11 +21,11 @@
 	<generator>https://wordpress.org/?v=6.3.1</generator>
 	<item>
 		<title>Hello world!</title>
-		<link>/index.php/2023/10/08/hello-world/</link>
-					<comments>/index.php/2023/10/08/hello-world/#comments</comments>
+		<link>/index.php/2023/10/11/hello-world/</link>
+					<comments>/index.php/2023/10/11/hello-world/#comments</comments>
 		
 		<dc:creator><![CDATA[igiann@hotmail.com]]></dc:creator>
-		<pubDate>Sun, 08 Oct 2023 20:28:17 +0000</pubDate>
+		<pubDate>Wed, 11 Oct 2023 10:04:01 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
 		<guid isPermaLink="false">/?p=1</guid>
 
@@ -34,7 +34,7 @@
 <p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/index.php/2023/10/08/hello-world/feed/</wfw:commentRss>
+					<wfw:commentRss>/index.php/2023/10/11/hello-world/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		

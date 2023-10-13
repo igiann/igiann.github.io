@@ -7,7 +7,7 @@
 	>
 <channel>
 	<title>
-	Comments for EU Integration Process and the Promotion of Human Rights in Albania	</title>
+	Comments for 	</title>
 	<atom:link href="/index.php/comments/feed/" rel="self" type="application/rss+xml" />
 	<link></link>
 	<description></description>
@@ -16,7 +16,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.3.1</generator>
+	<generator>https://wordpress.org/?v=6.3.2</generator>
 	<item>
 		<title>
 		Comment on Hello world! by A WordPress Commenter		</title>

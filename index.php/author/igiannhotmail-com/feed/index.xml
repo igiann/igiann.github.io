@@ -8,7 +8,7 @@
 	>
 
 <channel>
-	<title>igiann@hotmail.com &#8211; EU Integration Process and the Promotion of Human Rights in Albania</title>
+	<title>igiann@hotmail.com</title>
 	<atom:link href="/index.php/author/igiannhotmail-com/feed/" rel="self" type="application/rss+xml" />
 	<link></link>
 	<description></description>
@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.3.1</generator>
+	<generator>https://wordpress.org/?v=6.3.2</generator>
 	<item>
 		<title>Hello world!</title>
 		<link>/index.php/2023/10/11/hello-world/</link>
